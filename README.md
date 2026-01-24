@@ -19,6 +19,7 @@ The goal of this repo is twofold:
 
 - Attention Mechanism
 - Vision Transformer (ViT)
+- Data efficient image Transformer (DeiT)
 - *Ongoing...*
 
 ---
